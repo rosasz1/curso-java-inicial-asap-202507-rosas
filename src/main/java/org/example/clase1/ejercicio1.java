@@ -13,7 +13,11 @@ public class ejercicio1 {
         System.out.println(numero + " es divisible por 2 jefe. ");
         
     }
-    else System.out.println(numero + " es divisible por 3 jefe.  ");
+     else if (numero % 3 == 0) {
+        System.out.println(numero + " es divisible por 3 jefe.  ");
+
+        }
+     else System.out.println(numero + " no es divisible ni por 2 ni 3 jefe. ");
 
     }
 }
