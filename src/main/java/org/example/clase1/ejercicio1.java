@@ -1,6 +1,7 @@
 
 package org.example.clase1;
 import java.util.Scanner;
+//https://www.tokioschool.com/noticias/operador-ternario-java/
 
 //Escribir un programa que lea 1 numero entero por teclado e indique si es multiplo de 2 o de 3.//
 public class ejercicio1 {
